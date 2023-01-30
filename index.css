@@ -1,0 +1,62 @@
+.she{
+    font-family: All;
+    position:relative;
+    right: 40em;
+}
+.dey{
+    margin-top: 2em;
+    
+}
+.dapo{
+    margin-left: 7em;
+}
+body{
+    overflow: hidden;
+
+}
+.martins{
+    width: 100%;
+}
+.fiona{
+    color:blue;
+    position: relative;
+    top: 8em;
+}
+a{
+    color: blue;
+}
+a:hover{
+    color: red;
+
+}
+.fii{
+    position:  relative;
+    left: 3em;
+}
+.dee{
+    position: relative;
+    top: 2em;
+    font-size: 4em;
+}
+.de{
+    background-color: rgb(15, 15, 247);
+    color:white;
+    border: navy;
+    outline: navajowhite;
+    position: relative;
+    top: 9em;
+    width: 6em;
+    height: 2em;
+    
+}
+.see{
+    background-color: white;
+    color: blue;
+
+    border: navy;
+    outline: navajowhite;
+    position: relative;
+    top: 9em;
+    width: 6em;
+    height: 2em;
+}
